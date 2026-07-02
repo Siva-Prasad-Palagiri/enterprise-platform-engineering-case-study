@@ -1481,7 +1481,7 @@ Rather than simply adopting new technologies, each initiative is intended to sol
 
 <p align="center">
 
-<img src="assets/images/siva-profile.jpg" width="180" style="border-radius:50%;" alt="Siva Prasad Palagiri">
+<img src="assets/images/profile.png" width="180" style="border-radius:50%;" alt="Siva Prasad Palagiri">
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siva-Prasad-Palagiri&show_icons=true&theme=github_dark)
 
