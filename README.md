@@ -1622,8 +1622,6 @@ I am grateful for the opportunity to have contributed to the design, operation, 
 
 ---
 
----
-
 <div align="center">
 
 # ⭐ Thank You for Visiting
