@@ -51,19 +51,19 @@ Production-grade AWS Platform Engineering case study demonstrating cloud archite
 
 <p align="center">
 
-<a href="#-why-this-repository-exists">🏠 <b>Overview</b></a> •
-<a href="#-repository-at-a-glance">📊 <b>Metrics</b></a> •
+<a href="#-executive-summary">📖 <b>Summary</b></a> •
+<a href="#-project-snapshot">📊 <b>Metrics</b></a> •
 <a href="#-production-aws-architecture">☁️ <b>Architecture</b></a> •
-<a href="#-engineering-scope">⚙️ <b>Engineering</b></a> •
-<a href="#-technology-stack">🛠️ <b>Tech Stack</b></a>
+<a href="#-engineering-highlights">⚙️ <b>Engineering</b></a> •
+<a href="#️-technology-stack">🛠️ <b>Tech Stack</b></a>
 
 </p>
 
 <p align="center">
 
-<a href="#-repository-documentation">📚 <b>Documentation</b></a> •
+<a href="#-technical-documentation">📚 <b>Documentation</b></a> •
 <a href="#-repository-structure">📂 <b>Repository</b></a> •
-<a href="#-project-gallery">🖼️ <b>Gallery</b></a> •
+<a href="#️-engineering-gallery">🖼️ <b>Gallery</b></a> •
 <a href="#-production-engineering-timeline">📈 <b>Timeline</b></a>
 
 </p>
@@ -71,9 +71,9 @@ Production-grade AWS Platform Engineering case study demonstrating cloud archite
 <p align="center">
 
 <a href="#-live-production-platform">🌍 <b>Live Platform</b></a> •
-<a href="#-future-evolution">🚀 <b>Roadmap</b></a> •
+<a href="#-future-roadmap">🚀 <b>Roadmap</b></a> •
 <a href="#-about-the-author">👨‍💻 <b>Author</b></a> •
-<a href="#-disclaimer">⚖️ <b>Disclaimer</b></a>
+<a href="#️-disclaimer">⚖️ <b>Disclaimer</b></a>
 
 </p>
 
