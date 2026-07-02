@@ -72,7 +72,7 @@ Production-grade AWS Platform Engineering case study demonstrating cloud archite
 
 <a href="#-live-production-platform">🌍 <b>Live Platform</b></a> •
 <a href="#-future-roadmap">🚀 <b>Roadmap</b></a> •
-<a href="#-author">👨‍💻 <b>Author</b></a> •
+<a href="#author">👨‍💻 <b>Author</b></a> •
 <a href="#️-disclaimer">⚖️ <b>Disclaimer</b></a>
 
 </p>
@@ -1476,6 +1476,7 @@ Rather than simply adopting new technologies, each initiative is intended to sol
 </p>
 
 ---
+<a id="author"></a>
 
 # 👨‍💻 About the Author
 
