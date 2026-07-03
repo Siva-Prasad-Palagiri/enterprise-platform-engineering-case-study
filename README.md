@@ -1657,7 +1657,7 @@ It helps increase the visibility of the project and supports my work in Cloud En
 
 ---
 
-### Cloud Engineer • DevOps Engineer • Platform Engineer
+### Platform Engineer • Cloud Engineer • DevOps Engineer  
 
 **Engineering reliable cloud platforms through automation, operational excellence, and continuous improvement.**
 
