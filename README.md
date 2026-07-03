@@ -1492,7 +1492,7 @@ Rather than simply adopting new technologies, each initiative is intended to sol
 
 ## Siva Prasad Palagiri
 
-**Cloud Engineer • DevOps Engineer • Platform Engineer**
+**Platform Engineer • Cloud Engineer • DevOps Engineer**
 
 Founder — **CloudOps Velocity**
 
